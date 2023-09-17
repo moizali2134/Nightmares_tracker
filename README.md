@@ -1,4 +1,4 @@
-# logindemo
+# NightMares Tracker
 
 A new Flutter application.
 
